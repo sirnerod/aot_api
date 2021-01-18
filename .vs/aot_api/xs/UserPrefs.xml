@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{D675850D-24D7-49EE-A84B-DD427DEA7B87}|Default">
+  <MonoDevelop.Ide.ItemProperties.aot__api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="aot_api/WeatherForecast.cs" Line="7" Column="9" />
+      <File FileName="aot_api/Controllers/WeatherForecastController.cs" />
+      <File FileName="aot_api/Startup.cs" />
+      <File FileName="aot_api/Controllers/AOTController.cs" Line="40" Column="1" />
+      <File FileName="aot_api/ResultClass.cs" />
+      <File FileName="aot_api/PostData.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="aot_api" expanded="True">
+            <Node name="aot_api" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="AOTController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
